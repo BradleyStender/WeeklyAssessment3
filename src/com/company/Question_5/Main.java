@@ -12,7 +12,7 @@ public class Main {
 
         /* ANSWER QUESTION HERE:
 
-
+if we made this class abstract then it couldn't  be instantiated, but it could still be subclassed.
 
          */
     }
